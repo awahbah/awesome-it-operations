@@ -167,6 +167,10 @@ Covering identity and access management, endpoint management, cloud infrastructu
 
 ## Learning & Reference
 
+### Guides & Checklists
+
+- [RMM Vendor Evaluation Checklist](https://nizlo.com/guides/rmm-vendor-due-diligence) — Seven evidence checks for evaluating endpoint identity, tenant isolation, patching, auditability, rollback, and operational fit before an RMM rollout.
+
 ### Certifications
 
 - [Microsoft SC-300](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/) — Microsoft Identity and Access Administrator certification.
